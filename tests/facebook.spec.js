@@ -5,9 +5,7 @@ test('Facebook Login', async ({ page }) => {
     await test.step('Open Facebook', async () => {
 
         await page.goto('https://www.facebook.com');
-//kdikek,
-///dkiekkdlsie
-//ksdieikkik
+//kdiekdlsk
     });
 
     await test.step('Enter Email', async () => {
